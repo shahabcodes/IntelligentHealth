@@ -8,15 +8,6 @@ type of system, the user face problem in understanding the heterogeneous medical
 the users are laymen. User is confused because a large amount of medical information on 
 different mediums are available.The idea behind recommender system is to adapt to cope with the special requirements of the health domain related with users.
 
-# Registration Number
-* 11716071-Sudhanshu Agrawal
-* 11716106-Rohan Agrawal
-* 11716665-Aditya Arya
-
-# Visit Website
-https://sites.google.com/view/mlprojectdiseaseprediction/documentation
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/WebsiteLink/Capture.PNG)
-
 # Explanation of Files
 ## training.csv
 * This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
@@ -45,9 +36,6 @@ This is the file which is used to create the interface of our system.GUI stands 
 ## Project_ML.ipynb
 This is the jupyter notebook which consist of complete code. This is used to explain the working of each and every module used in the project.
 
-## GUI.jpeg
-This file contains the screenshot of the built GUI which shows the working of the system
-
 # Working with GUI
 ## Step 1:
 Enter the name in the provided space infront of the label as "Name of the Patient". It is the mandatory field which user have to enter in order to get result.
@@ -65,5 +53,3 @@ Disease Recommendation will be available infront of the  labels of algorithm of 
 ## Step 5:
 Click on "Reset" button to predict the disease for any other patient or Press "Exit System" button to come out of the GUI.
 
-# A picture of GUI Interface
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/GUI/GUI.PNG)
