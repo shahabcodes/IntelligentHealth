@@ -15,16 +15,15 @@ different mediums are available.The idea behind recommender system is to adapt t
 ## testing.csv
 * This is the dataset which has been used to test our model so that we can know the accuracy of our model. this dataset is predefined with output.
 
-## Compiled_Report.pdf
-* This is the complete explaination of Each and every module implemented in software. You can refer to the pdf for the detailed explaination of every part.
 
-## PythonCodeOfAlgorithm.py
+## Intelligent_Health_Spyder.py & Intelligent_Health_Spyder_Final.py
 This is the file which consist of dataset and there are various differnt algorithms used for training of our model which are as follows:
 * Decision Tree 
 * Random Forest
 * KNearestNeighbour
 * Naive Bayes
 These four algorithms is used to train our model and all gives an accuracy of over 90
+The file contains the entire code
 
 ## Database
 The database used in this project is "sqlite" whose name is database.db which consist of four tables in which we have shown the results of four different algorithms.we are saving the results of users with their names for future preferences.
