@@ -1,4 +1,4 @@
-# Machine Learning Project on Disease Predictions using Symptoms
+# Machine Learning Project on Disease Predictions using Symptoms (Works well with Python 3.5)
 # Problem Statement 
 Health information needs are also changing the information seeking behavior and can be 
 observed around the globe. Challenges faced by many people are looking online for health 
@@ -31,7 +31,6 @@ The database used in this project is "sqlite" whose name is database.db which co
 
 ## GUI.py
 This is the file which is used to create the interface of our system.GUI stands for Graphical User Interface and to create it we have used Tkinter which gives a software kind of view to our project where user can directly interact with the system by entering the symptoms of dieases and he/she will get the disease through various algorithms.
-
 ## Project_ML.ipynb
 This is the jupyter notebook which consist of complete code. This is used to explain the working of each and every module used in the project.
 
